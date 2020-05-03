@@ -1,0 +1,13 @@
+version: '3'
+
+volumes:
+    jenkins_st:
+
+services:
+    jenkinsos:
+        image: jenkins:2.60.3
+        volumes :
+            - jenkins_st:/var/jenkins_home
+        restart: always
+        ports:
+            - 8000:8080
