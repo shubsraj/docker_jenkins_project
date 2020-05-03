@@ -2,7 +2,7 @@
 
 ##intro
 I made this project with respect to complete my training of Docker by IIEC Community.
-#By Vimal Daga Sir#
+#Under the Guidance of By Vimal Daga Sir#
 this project consists a Docker-compose file by which you can launch jenkins in just a blink of an eye.
 using #docker-compose# feature.
 
