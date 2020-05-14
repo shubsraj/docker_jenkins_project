@@ -25,7 +25,7 @@ itself with your os but if not).
 * docker-compose start
 
 Then in web browser, in url tab type
-<your os IP>:8000
+> your os IP:8000
 
 Thats it
 
