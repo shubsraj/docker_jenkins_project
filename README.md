@@ -1,21 +1,21 @@
-##__Docker Jenkins__##
+# __Docker Jenkins__
 
-# intro
+## __intro__
 I made this project with respect to complete my training of Docker by __IIEC Community__
 Under the Guidance of __Vimal Daga Sir__
 
 this project consists a Docker-compose file by which you can launch jenkins in just a 
 blink of an eye. using __docker-compose__ feature.
 
-# Dependancies
+## __Dependancies__
 should have docker and docker-compose installed in your OS.
 
-# How to use
+## __How to use__
 create a seprate directory
 1. copy and peste code in a .yml file with name docker-compose.yml
 2. clone repository 
 
-# Commands
+## __Commands__
 inside that directory where this code is
 * docker-compose up    (for creating and launching whole setup)
 * docker-compose stop  (to stop jenkins)
@@ -29,7 +29,7 @@ Then in web browser, in url tab type
 
 Thats it
 
-__Note__
+##__Note__
 * First time jenkins will require admin key that you can get from the path shown in jenkins login page itself.
 * If jenkins crashes or won't work, your data is safe in docker volume attached with it.
 
