@@ -1,4 +1,4 @@
-__Docker Jenkins__
+##__Docker Jenkins__##
 
 # intro
 I made this project with respect to complete my training of Docker by __IIEC Community__
@@ -7,15 +7,15 @@ Under the Guidance of __Vimal Daga Sir__
 this project consists a Docker-compose file by which you can launch jenkins in just a 
 blink of an eye. using __docker-compose__ feature.
 
-## Dependancies
+# Dependancies
 should have docker and docker-compose installed in your OS.
 
-### How to use
+# How to use
 create a seprate directory
 1. copy and peste code in a .yml file with name docker-compose.yml
 2. clone repository 
 
-#### Commands
+# Commands
 inside that directory where this code is
 * docker-compose up    (for creating and launching whole setup)
 * docker-compose stop  (to stop jenkins)
