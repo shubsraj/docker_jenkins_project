@@ -29,7 +29,7 @@ Then in web browser, in url tab type
 
 Thats it
 
-##__Note__
+## __Note__
 * First time jenkins will require admin key that you can get from the path shown in jenkins login page itself.
 * If jenkins crashes or won't work, your data is safe in docker volume attached with it.
 
