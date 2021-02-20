@@ -33,4 +33,4 @@ Thats it
 * First time jenkins will require admin key that you can get from the path shown in jenkins login page itself.
 * If jenkins crashes or won't work, your data is safe in docker volume attached with it.
 
-If any feedback feel free to contact at - [Gmail]__shubshub1995@gmail.com__
+If any feedback feel free to contact at - [Gmail](shubshub1995@gmail.com)
